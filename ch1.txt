@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Working in Git.Can you help me out
+=======
+Working in Git. It's a great place to collab.
+>>>>>>> new_branch
